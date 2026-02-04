@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: Martin
 
 ## 🤓 Course overview and learning outcomes 
 
